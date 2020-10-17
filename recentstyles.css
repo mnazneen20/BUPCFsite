@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+}
+.nav-style{
+    background: white;
+    top: 0;
+    position: sticky;
+   z-index: 2;
+   }
+   .nav-text{
+    font-size: 110%;
+    font-weight: 600;
+}
